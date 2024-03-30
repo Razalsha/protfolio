@@ -1,0 +1,101 @@
+.navbar{
+    margin-left: 30px;
+    display:flex
+}
+a:hover{
+background-color: black;
+color: aliceblue;
+}
+.title{
+    padding-left: 10px;
+}
+.nav{
+    padding-top: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+button{
+   padding: 10px;
+   height: 40px;
+   margin-top: 30px;
+   margin-left: 190px;
+   border-width: 2px;
+   border-radius: 10px;
+   box-shadow: 5px 5px 2px 0px
+}
+#home{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 10px;
+    background-color: rgb(232, 240, 237);
+    margin-left: 30px;
+    margin-top: 0px;
+}
+#services{
+    display: flex;
+ padding-top: 70px;
+ margin-left: 120px;
+}
+.card-1{
+   width: 200px;
+   height: 200px;
+   padding: 20px;
+   margin-left: 50px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px 5px 0px
+}
+.card-2{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+ background-color: antiquewhite;
+ margin-left: 50px;
+   box-shadow: 10px 10px 5px 0px
+}
+.card-3{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 50px;
+ background-color: antiquewhite;
+ box-shadow: 10px 10px 5px 0px
+}
+#About{
+    padding-top: 100px;
+    padding: 50px;
+    margin-left: 30px;
+}
+#projects{
+    display: flex;
+    padding-top: 70px;
+    margin-left: 20px;  
+}
+.card-4{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 50px;
+ background-color: antiquewhite;
+ box-shadow: 10px 10px 5px 0px
+}
+.card-5{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 50px;
+ background-color: antiquewhite;
+ box-shadow: 10px 10px 5px 0px
+}
+.card-6{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 50px;
+ background-color: antiquewhite;
+ box-shadow: 10px 10px 5px 0px
+}
+#Testimonials{
+    padding-top: 100px;
+    padding: 50px;
+    margin-left: 30px;
+}
